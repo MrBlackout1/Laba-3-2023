@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9CzDShwbG+6wSc2zqMVMCkgBlxjkRX7ToQNpwud3fexFUbYZH+ozWUezdYsUgVYtBMPHtJbLrWv7zNh+6quJQ==",
+  "success": true,
+  "projectFilePath": "D:\\VS Projects\\C#\\Laba 3 2023\\Laba 3 2023\\Laba 3 2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrbob\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\mrbob\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\mrbob\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
